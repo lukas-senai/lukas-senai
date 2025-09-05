@@ -51,7 +51,10 @@ Se quiser me chamar pra conversar, tirar dúvidas ou colaborar:
 ---
 
 ### ✨ Curiosidades
-![Cuphead](assets/cuphead.png) Platinei Cuphead
-![Hollow Knight](assets/hollow-knight.png) Platinei Hollow Knight (falta o Panteão 5)
+<img src="assets/cuphead.png" alt="Cuphead" width="20" height="20" /> Platinei Cuphead  
+
+<img src="assets/hollow-knight.png" alt="Hollow Knight" width="20" height="20" /> Platinei Hollow Knight (na vdd falta o Panteão 5)
+
 🍕 Se você já pediu uma pizza, provavelmente foi usando um sistema que eu fiz
-📕 Sempre sonhei em ser professor
+
+📖 Sempre sonhei em ser professor
