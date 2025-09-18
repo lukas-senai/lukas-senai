@@ -31,6 +31,7 @@ Mais de 7 anos criando sites e sistemas para diversas áreas do mercado.
 ## 🛠️ Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)
